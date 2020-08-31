@@ -5,6 +5,10 @@
 - Homepage: [https://u-can.pro](https://u-can.pro)
 - Company: [ROLO Co.,Ltd.](https://rolo.jp)
 
+# My Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ucan-lab)](https://github.com/ucan-lab/github-profile-trophy)
+
 # My GitHub works
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ucan-lab&count_private=true&show_icons=true&theme=buefy)
