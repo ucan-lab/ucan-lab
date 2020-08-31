@@ -7,7 +7,7 @@
 
 # My Github Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ucan-lab)](https://github.com/ucan-lab/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ucan-lab)](https://github.com/ucan-lab/ucan-lab)
 
 # My GitHub works
 
