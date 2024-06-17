@@ -3,7 +3,6 @@
 - Name: Yuki Imamura
 - Occupation: Web backend-end engineer
 - Homepage: [https://u-can.pro](https://u-can.pro)
-- Company: [ROLO Co.,Ltd.](https://rolo.jp)
 
 # My Github Profile Trophy
 
